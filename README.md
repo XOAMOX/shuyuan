@@ -4,4 +4,12 @@
 
 https://github.com/gedoor/MyBookshelf
 
+书源
+
+https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt
+
+去广告
+
+https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX-xiuzheng.txt
+
 
