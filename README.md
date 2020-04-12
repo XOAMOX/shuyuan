@@ -4,6 +4,10 @@
 
 https://github.com/gedoor/MyBookshelf
 
+源仓库
+
+http://ku.mumuceo.com/
+
 书源
 
 https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt
