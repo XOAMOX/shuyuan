@@ -4,6 +4,10 @@
 
 https://github.com/gedoor/MyBookshelf
 
+阅读3.0
+
+https://github.com/gedoor/legado
+
 源仓库
 
 http://ku.mumuceo.com/
