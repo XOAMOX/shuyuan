@@ -1,23 +1,12 @@
-单纯作为书源 axgayty9nruq42mx
 
-阅读APP 
+ **单纯作为书源**  axgayty9nruq42mx
 
-https://github.com/gedoor/MyBookshelf
+ **[阅读APP](https://github.com/gedoor/MyBookshelf)**  
 
-阅读3.0
+ **[阅读3.0](https://github.com/gedoor/legado)** 
 
-https://github.com/gedoor/legado
+ **[源仓库](http://ku.mumuceo.com/)** 
 
-源仓库
+ **[书源](https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt)** 
 
-http://ku.mumuceo.com/
-
-书源
-
-https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt
-
-去广告
-
-https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX-xiuzheng.txt
-
-
+ **[去广告](https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX-xiuzheng.txt)** 
