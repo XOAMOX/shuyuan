@@ -7,7 +7,7 @@
 
  **[源仓库](http://ku.mumuceo.com/)** 
 
- **[书源](https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt)** 
+ **[书源(3.0)](https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX.txt)** 
 
  **[去广告](https://raw.githubusercontent.com/XOAMOX/shuyuan/master/shuyuan/XOAMOX-xiuzheng.txt)** 
  
