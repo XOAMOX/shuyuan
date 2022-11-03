@@ -1,22 +1,44 @@
 [
   {
-    "enable": true,
-    "id": 52,
+    "group": "",
+    "id": 53,
+    "isEnabled": true,
     "isRegex": true,
-    "regex": "(。_手机版阅读网址：)|(【悠閱書城一個免費看書的換源APP軟體，安卓手機需GooglePlay下載安裝，蘋果手機需登陸非中國大陸賬戶下載安裝】)|(海州。想-免-费-看-完-整-版-请-百-度-搜-)|(手机端https://)|(书客居阅读网址：)|(您可以在百度上搜索：)|(.。手机版阅读网址：)|(。顶点手机版阅读网址：)|(请记住本书首发域名：)|(。笔趣阁手机版阅读网址：)|(先定个小目标，比如1秒记住：)|(书客居手机版阅读网址：)|(手机用户请浏览阅读，更优质的阅读体验。)|(奇书网(((([( ])|http|https|www|WWW|m)+)&?([:/.]+)&?([a-zA-Z0-9/ .)]+))最快更新)",
-    "replaceSummary": "广告",
+    "name": "去网址修",
+    "order": 1,
+    "pattern": "((.*)?(((([( ])|http|https|www|WWW|m|wap)+)([ :/.@]+)([\\w/.@) ]+)))",
     "replacement": "",
-    "serialNumber": 2,
-    "useTo": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   },
   {
-    "enable": true,
-    "id": 53,
+    "group": "",
+    "id": 1600278157654,
+    "isEnabled": true,
     "isRegex": true,
-    "regex": "(((([( ])|http|https|www|WWW|m)+)&?([:/.]+)&?([a-zA-Z0-9/.) ]+))",
-    "replaceSummary": "去网址修",
+    "name": "广告",
+    "order": 4,
+    "pattern": "(手机直接访问:)|(【(.*)咪咪阅读(.*)】)|((?<!\\S)9(?!\\S))|(〖(.*)无弹窗(.*)〗)|((\\()?未完(.*)作品(.*)支持(.*)(力。|阅读。)(\\))?)|【】|最快(.*)阅读(.*)访问：|\\((.*)(小说|知道)(.*)(微信|精彩)(.*)公众(.*)(ad|！)\\)|PS(.*)微信(.*)关注(.*)支持！|（(.*)活动(.*)公众(.*)有奖(.*)！）|\\.bqkan8\\.|(：。手机版阅读网址：)|(第(.*)免费阅读\\.)|(坚持免费无广告不易，请大家帮忙分享)|(为您提供大神(.*)书签！)|(【告知(.*)好使！】)",
     "replacement": "",
-    "serialNumber": 3,
-    "useTo": ""
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
+  },
+  {
+    "group": "",
+    "id": 35,
+    "isEnabled": true,
+    "isRegex": true,
+    "name": "通用短垃圾集合",
+    "order": 45,
+    "pattern": "(^\\W*)?(\\(未完待续|求(.{1,2}票|收藏|订阅).*|本文地址|欢迎阅读|.?顶\\W?点\\W?小\\W?说|请使用访问.*|请牢记.*|里面(小说)?.*破防盗|\\[搜索尽在.*\\]|《书.?香.?阁.*|.*免费更新|最\\s{0,3}新.{0,3}全.*)\\W*",
+    "replacement": "\n",
+    "scope": "",
+    "scopeContent": true,
+    "scopeTitle": false,
+    "timeoutMillisecond": 3000
   }
 ]
